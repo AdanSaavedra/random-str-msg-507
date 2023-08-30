@@ -1,0 +1,21 @@
+{
+  "name": "random-string-msg-507",
+  "version": "1.0.0",
+  "description": "Random String messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Adan Saavedra <adansaavedraa@icloud.com",
+  "license": "MIT",
+  "homepage": "https://github.com/AdanSaavedra/random-str-msg-507",
+  "bin": {
+    "random-str-msg-507": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
